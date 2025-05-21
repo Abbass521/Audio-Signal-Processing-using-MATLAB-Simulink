@@ -28,3 +28,18 @@ The echo effect replicates the natural phenomenon of sound reflections, adding a
 
 ![Image](https://github.com/user-attachments/assets/a0d74c38-33f9-4fff-aa52-99a1d50213be)
 
+# Flange-Effect 
+
+The flange effect is a creative audio processing technique that combines the originalsignal with a time-modulated delayed version, producing a sweeping or "jet-like" sound. In this project, sinusoidal modulation is applied to vary the delay time, creating dynamic interference patterns. Parameters such as modulation depth, rate, and feedback are fine-tuned to achieve the desired effect. This technique is widely used in music production, especially in rock and electronic genres, to add movement and texture to soundtracks.
+
+![Image](https://github.com/user-attachments/assets/19506815-920c-4d95-a834-af37e5597631)
+
+![Image](https://github.com/user-attachments/assets/86951616-f108-4d18-8cbd-9110c44449c0)
+
+# Reverb-Effect
+
+Reverberation adds richness and depth to audio by simulating the natural reflections of sound in an acoustic space. In this project, MATLAB is used to implement reverb effects that mimic environments ranging from small rooms to large concert halls. Key parameters like decay time, room size, and early reflections are adjusted to create realistic soundscapes. Reverb is a staple in music production, film audio, and live performances, offering an immersive auditory experience that enhances the naturalness of sound.
+
+![Image](https://github.com/user-attachments/assets/91ba0f7a-c81a-40db-95ae-caa527c61c13)
+
+![Image](https://github.com/user-attachments/assets/95c915af-bd71-4089-bec2-6c7b88a018d4)
